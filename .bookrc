@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Epilogue on The Brothers Karamazov",
-  "type": "text"
+  "type": "text",
+  "book_id": 507
 }

@@ -1,6 +1,3 @@
 {
-  "0": "<li><a class = \"page\" href=\"8\"> Book X. The Boys </a> <span class=\"flex\">8</span> </li>",
-  "1": "<li><a class = \"page\" href=\"171\"> Book XI. Ivan </a> <span class=\"flex\">171</span> </li>",
-  "2": "<li><a class = \"page\" href=\"492\"> Book XII. A Judicial Error </a> <span class=\"flex\">492</span> </li>",
-  "3": "<li><a class = \"page\" href=\"812\"> CONTINUED… </a> <span class=\"flex\">812</span> </li>"
+  "0": "<li><a class = \"page\" href=\"75\"> FINIS </a> <span class=\"flex\">75</span> </li>"
 }
